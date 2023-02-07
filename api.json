@@ -1,0 +1,31 @@
+{
+  "menu": [
+    "Why Choose Us", 
+    "Math Resources",
+    "About Us",
+    "Become a Teacher"
+  ],
+  "buttonLink": "https://www.cuemath.com/work-from-home/",
+  "logo": "https://static.qumath.in/static/next/_next/static/images/cuemath-dark-logo-9f8e8ee85028a3943d4cb7d90b9db2e7.svg",
+  "section1": {
+    "subText": "BECOME A CUEMATH TEACHER",
+    "heading": "Teach part-time from home, earn a full-time income",
+    "highlights": [
+      {
+        "hImage": "https://static.qumath.in/static/next/_next/static/images/earn-upto-7b34d0733b3e3b50f781d403db9da24a.jpg",
+        "hTitle": "Earn Handsomely",
+        "hSubtext": "By taking remote classes for 4-5 hrs* a day"
+      },
+      {
+        "hImage": "https://static.qumath.in/static/next/_next/static/images/gradesK-12-f1f49d6d7894a80b3ae014cd5919cdf8.png",
+        "hTitle": "Grades K-12",
+        "hSubtext": "Teach students from across the world"
+      },
+      {
+        "hImage": "https://static.qumath.in/static/next/_next/static/images/math-d8bd48c9c7268b8ae368a889bbe84f21.png",
+        "hTitle": "Teach Math Online",
+        "hSubtext": "Take structured math classes with full support"
+      }
+    ]
+  }
+}
